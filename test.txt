@@ -4,3 +4,4 @@ some more changes in master branch
 hot fix changes in 'hotfix' branch
 
 changes in 'branch1'
+changes for rease 
