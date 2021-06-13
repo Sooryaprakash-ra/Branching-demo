@@ -1,3 +1,4 @@
 new test file in 'master' branch 
 a new file created in "testing" branch
 some more changes in master branch
+hot fix changes in 'hotfix' branch
